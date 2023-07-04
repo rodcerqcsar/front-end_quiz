@@ -9,7 +9,7 @@
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with this technologies:
 
 - HTML
 - CSS 
