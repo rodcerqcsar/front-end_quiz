@@ -7,14 +7,14 @@
   <img alt="Preview App" src="front-end_quiz.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Tecnhologies
 
 This project was developed with this technologies:
 
 - HTML
 - CSS 
 
-## 💻 Projeto
+## 💻 Project
 
 Accessibility is making your webpage easy for all people to use – even people with disabilities.
 
@@ -22,5 +22,5 @@ Accessibility is making your webpage easy for all people to use – even people 
 
 No Copyright :wave: by https://www.freecodecamp.org
 
-- [Acesse o projeto finalizado, online](https://rodrigocccesar.github.io/front-end_quiz)
+- [Access the finished project, online](https://rodrigocccesar.github.io/front-end_quiz)
 
